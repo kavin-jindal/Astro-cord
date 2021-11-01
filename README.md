@@ -1,3 +1,14 @@
+![Maintainer](https://img.shields.io/badge/maintainer-KavinJindal-blue)
+
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![GitHub release](https://img.shields.io/github/release/Astro-dbot/Astro-Cord.svg)](https://GitHub.com/Astro-dbot/Astro-Cord/releases/)
+
+
 # Astro-Cord
 A discord.py code generator program. Compatible with both linux and windows. 
 
@@ -37,5 +48,5 @@ A discord.py code generator program. Compatible with both linux and windows.
 > Python Development Info: `Python 3.8.6`
 > Made in: `PyCharm`
 
-# Made with :heart: by Klevr 
+# Made with :heart: by Kavin Jindal
 
