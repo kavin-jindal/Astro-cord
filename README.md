@@ -6,8 +6,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![GitHub release](https://img.shields.io/github/release/Astro-dbot/Astro-Cord.svg)](https://GitHub.com/Astro-dbot/Astro-Cord/releases/)
-
+ 
 
 # Astro-Cord
 A discord.py code generator program. Compatible with both linux and windows. 
