@@ -41,10 +41,13 @@ A discord.py code generator program. Compatible with both linux and windows.
 * Make sure these dependencies are installed on your device before running the program
 
 > Colorama
+
+
 > Discord
 
 # Info
 > Python Development Info: `Python 3.8.6`
+
 > Made in: `PyCharm`
 
 # Made with :heart: by Kavin Jindal
