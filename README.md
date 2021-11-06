@@ -11,6 +11,10 @@
 # Astro-Cord
 A discord.py code generator program. Compatible with both linux and windows. 
 
+# Update logs
+
+[Update 1,1,0](https://github.com/Astro-dbot/Astro-Cord/releases/tag/v1.1.0)
+
 # About
 
 > This is a program made to make discord.py bot development easy. If you are a beginner in discord.py development or you are a developer and you want to speed your development process, then this tool is for your!
