@@ -24,7 +24,9 @@ A discord.py code generator program. Compatible with both linux and windows.
 
 * Now you can start working with the tool
 
-> You have to run the file using `python astro_cord.py` for Windows or `python3 astro_cord.py` in linux.  
+> Head into the `astro_art` folder
+> You have to run the program using `astro_main.py` for Windows or `python3 astro_main.py` in linux.  
+> Select the option `1` if you want to generate a bot with cogs or `2` if you want to generate the bot without cogs.
 > The program will ask you for the name of the bot.
 > Then add a valid prefix for the commands of your bot
 > Later enter the correct token of the bot which you can get from the developer portal
