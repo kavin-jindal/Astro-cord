@@ -12,8 +12,7 @@
 A discord.py code generator program. Compatible with both linux and windows. 
 
 # Update logs
-
-[Update 1,1,0](https://github.com/Astro-dbot/Astro-Cord/releases/tag/v1.1.0)
+# [Update 1.1.0](https://github.com/Astro-dbot/Astro-Cord/releases/tag/v1.1.0)
 
 # About
 
