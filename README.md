@@ -12,6 +12,9 @@
 A discord.py code generator program. Compatible with both linux and windows. 
 
 # Update logs
+
+# [Update 2.0.0](https://github.com/kavin-jindal/Astro-cord/releases/tag/v2.0.0)
+
 # [Update 1.1.0](https://github.com/Astro-dbot/Astro-Cord/releases/tag/v1.1.0)
 
 # About
@@ -25,35 +28,30 @@ A discord.py code generator program. Compatible with both linux and windows.
 > Before you start using this tool, you will need to make an application on [Discord Developer Portal](https://discord.com/developers/applications).
 > Create a bot in that application, grab the token and the name of the bot. 
 
-* Now you can start working with the tool
+> Make sure to do `pip install ascord` and `pip install discord` before running the program. 
+> Click on **Ascord.exe** to run the program
 
-> Head into the `astro_art` folder
-> You have to run the program using `astro_main.py` for Windows or `python3 astro_main.py` in linux.  
-> Select the option `1` if you want to generate a bot with cogs or `2` if you want to generate the bot without cogs.
-> The program will ask you for the name of the bot.
-> Then add a valid prefix for the commands of your bot
-> Later enter the correct token of the bot which you can get from the developer portal
-> In the end, you will be asked if you want a sample embed snippet in your code or not. You can reply with `y/n`
-> If you get a success message, then that means your bot code has been generated.
-> The file will be stored in the same location where the program is stored. The name of the file will be by your bot's name. 
+![dedd](https://user-images.githubusercontent.com/68228966/146720809-8b13f945-a32e-428b-9841-3f971d03c1af.JPG)
+
+> Enter the info in the fields as asked
+> Click on Generate buttons as per your choice
 
 # Compatibility
 
-> The program has been made compatible with both `Windows` and `Linux` OS.
+> The program is only compatible with Windows OS
 
 # Dependencies
 
 * Make sure these dependencies are installed on your device before running the program
 
-> Colorama
-
+> ascord
 
 > Discord
 
 # Info
 > Python Development Info: `Python 3.8.6`
 
-> Made in: `PyCharm`
+> Made in: `VS Code`
 
 # Made with :heart: by Kavin Jindal
 
